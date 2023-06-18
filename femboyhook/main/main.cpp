@@ -31,10 +31,11 @@
     ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⣿
 
 	why i leaked:
-			     1. shit source
-			     2. vendom Baby never bought me valorant skin :cry:
-			     3. fbh is dead, so is the game
-				 4. yg will love this :D
+                             1. the old dev (gilbert) tried to sell this for $10 or smth LOL
+ 			     2. shit source
+			     3. vendom Baby never bought me valorant skin :cry:
+			     4. fbh is dead, so is the game
+				 5. yg will love this :D
 
 	credits:
 			@https://github.com/laine - real nigga
