@@ -1,6 +1,6 @@
 femboyhook version 2
 
-this source is very shit. plaese dont paste from it
+this source is very shit. please dont paste from it
 
 credits:
 
