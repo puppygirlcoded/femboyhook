@@ -2,6 +2,9 @@ femboyhook version 2
 
 this source is very shit. please dont paste from it
 
+menu images & esp: https://imgur.com/a/L0nSI76
+
+
 credits:
 
 @https://github.com/laine - extremely private movetype check
