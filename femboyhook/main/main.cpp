@@ -62,7 +62,10 @@ static DWORD WINAPI on_attach( void* instance )
 			                                          xs( "datacache.dll" ),      xs( "vphysics.dll" ) };
 
 		console.print( xs( "initialising module handles" ) );
-		
+		if ( !memory.on_attach( modules ) )
+			console.print( xs( "failed to initialise module handles" ) );
+		else
+			console.print( xs( "initialised module handles" ) );
 
 		console.print( xs( "initialising interfaces" ) );
 		if ( !interfaces.on_attach( ) )
